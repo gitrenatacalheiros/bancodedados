@@ -1,0 +1,8 @@
+br\com\projeto\PessoaCRUD.class
+br\com\projeto\MongoLogger.class
+br\com\projeto\TestePessoaCRUD.class
+br\com\projeto\ConexaoPostgres.class
+br\com\projeto\RedisCache.class
+br\com\projeto\Pessoa.class
+br\com\projeto\Teste.class
+br\com\projeto\TesteRedis.class
